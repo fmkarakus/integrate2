@@ -1,3 +1,3 @@
-# Welcome to Hasselt City Guide
+# Japanese Garden
 
-In this website you will learn basic attractions of the city.
+In this website you will learn basic information about Japanese Garden in Hasselt.

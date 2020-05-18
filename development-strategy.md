@@ -2,7 +2,7 @@
 
 > `semantic-layout`
 
-This site is about Hasselt city. It contains basic information about the city.
+This site is about Japanese Garden in Hasselt city. It contains basic information about the city.
 
 ## Wireframe
 
